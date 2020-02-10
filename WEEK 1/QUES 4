@@ -1,0 +1,40 @@
+import java.util.Scanner;
+public class Exercise1_4 {
+    public static void main(String[] args) {
+	   Scanner sc = new Scanner(System.in);
+	   int n=sc.nextInt();
+           int result=0;
+           
+           
+           //Use while loop check the number is Armstrong or not.
+//store the output(1 or 0) in result variable.
+ int i=n;
+  int count=0; 
+  while(i>0)
+        {
+          i=i/10;
+          count++;
+        }
+  i=n;
+  int rem;
+  int sum=0;
+  while(i>0)
+        {
+          rem=i%10;
+          i=i/10;
+          int a=rem;
+          for(int j=0; j<count-1; j++)
+            rem=rem*a;
+          sum=sum+rem;
+        }
+          
+//store the output(1 or 0) in result variable.
+ if(sum==n)
+          result=1;
+  else
+          result=0;
+
+ System.out.print(result);
+ 
+  }
+}
