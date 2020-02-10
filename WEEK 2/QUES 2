@@ -17,6 +17,9 @@ public class Question22{
     public static void main(String args[]){
     
     
+     //COPY THIS FOR NPTEL
+    
+    
     // Create an object of class Student
 
 // Call 'print()' method of class Student 
@@ -35,6 +38,17 @@ School c=new School();
 
 // Call 'print()' method of class School
 c.print();
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }
