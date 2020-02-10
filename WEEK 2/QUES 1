@@ -10,12 +10,24 @@ public class Question21{
     public static void main(String args[]){
     
     
+    
+   //COPY THIS FOR NPTEL
+    
+    
     // Create an object of class Student
-
 // Call 'print()' method of class Student
 Student s1=new Student();
  // Access the 'print()' method of the inner class Student using the inner class object
  s1.print();
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
       } 
