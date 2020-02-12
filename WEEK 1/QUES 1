@@ -5,6 +5,7 @@ public class Exercise1_1 {
        double radius= s.nextDouble();
        double perimeter;
        double area;
+       //------------------------------------------------FOR NPTEL COPY FROM HERE
        
 //Calculate the perimeter 
 //Calculate the area
@@ -24,6 +25,7 @@ public class Exercise1_1 {
         {
           System.out.print("please enter non zero positive number");
         }
+        //------------------------------------------------to here
         
          }
 }
