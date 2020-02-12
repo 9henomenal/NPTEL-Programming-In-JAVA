@@ -4,6 +4,8 @@ public class Exercise1_4 {
 	   Scanner sc = new Scanner(System.in);
 	   int n=sc.nextInt();
            int result=0;
+	   
+	   //------------------------------------------------FOR NPTEL COPY FROM HERE
            
            
            //Use while loop check the number is Armstrong or not.
@@ -35,6 +37,7 @@ public class Exercise1_4 {
           result=0;
 
  System.out.print(result);
+ //------------------------------------------------TO HERE
  
   }
 }
