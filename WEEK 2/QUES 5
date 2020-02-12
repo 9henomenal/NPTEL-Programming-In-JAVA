@@ -1,5 +1,7 @@
 public class Question25{ 
     public static void main(String[] args) { 
+    
+    //------------------------------------------------FOR NPTEL COPY FROM HERE
     //Declare variable with name 'nptel', 'space' and 'java' and proper datatype.
 
 //Initialize the variables with proper input
@@ -10,6 +12,8 @@ String nptel=new String("NPTEL");
 String space=new String(" ");
 String java=new String("JAVA");
 // System.out.print(nptel+space+java);
+
+//------------------------------------------------to here
 
 
      System.out.print(nptel+space+java);
