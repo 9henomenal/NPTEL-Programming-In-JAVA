@@ -15,6 +15,8 @@ public class Exercise1_5{
 	  {
         	arr[i]=input.nextInt();
 	  } 
+	  
+	  //------------------------------------------------FOR NPTEL COPY FROM HERE
     
     
     
@@ -38,6 +40,7 @@ public class Exercise1_5{
 
  System.out.println(result);
  System.out.print(mark_avg);
+ //------------------------------------------------tO HERE
  
  
   }
