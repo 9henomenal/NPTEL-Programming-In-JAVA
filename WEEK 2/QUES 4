@@ -4,6 +4,8 @@ public class Question24{
 		Answer a = new Answer(10,"MCQ");
 	}
 }
+
+//------------------------------------------------FOR NPTEL COPY FROM HERE
 	class Answer{
  Answer(){
   System.out.println("You got nothing.");
@@ -14,5 +16,5 @@ public class Question24{
  }
 }
 
-
+//-----------------------------------------------to here
 
