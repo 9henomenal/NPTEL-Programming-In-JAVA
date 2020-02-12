@@ -11,6 +11,9 @@ public class Question23{
 	void print(Question23 object){
 		System.out.print("Well Done!");
 	}
+	
+	//------------------------------------------------FOR NPTEL COPY FROM HERE
+	
 // Define a method named 'studentMethod()' in class Question
 
 // Call the method named 'print()' in class Question
@@ -21,4 +24,8 @@ void studentMethod(){
 // Call the method named 'print()' in class Question
   q.print(q);
 }
+
+//-----------------------------------------------------------to HERE
+
+
 }
