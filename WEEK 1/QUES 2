@@ -6,6 +6,7 @@ public class Exercise1_2 {
         int y = s.nextInt();
         int z = s.nextInt();
         int result = 0;
+        //------------------------------------------------FOR NPTEL COPY FROM HERE
         
   //Use if...else ladder to find the largest among 3 numbers and store the largest number in a variable called result.
 
@@ -20,6 +21,6 @@ public class Exercise1_2 {
           
         System.out.print(result);
         
-        
+        //------------------------------------------------TO HERE
          }
 }
