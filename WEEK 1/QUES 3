@@ -4,6 +4,7 @@ public class Exercise1_3 {
 	   Scanner sc = new Scanner(System.in);
 	   int n=sc.nextInt();
 	   int sum=0;
+	   //------------------------------------------------FOR NPTEL COPY FROM HERE
      
      //Use for or while loop do the operation
 for(int i=0; i<n*2; i=i+2)
@@ -13,5 +14,7 @@ for(int i=0; i<n*2; i=i+2)
         }
 
   System.out.print(sum);
+  
+  //-----------------------------------------------TO HERE
  }
 }
